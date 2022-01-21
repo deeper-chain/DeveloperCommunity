@@ -1,0 +1,15 @@
+# by mpancada
+# BUG_REPORT_0001_ATOM_OS1.1.13_Internet_speed_broken
+# 2021-01-20 18:23 UTC+0 
+
+My base internet speed is 100mb download and 100 mb upload
+Today I noticed that my internet speed changed to 2mb/100mb
+
+I rebooted. Still the same
+Inverted the ethernet cables and my internet speed changed to 100mb/2mb
+
+I talked with 3 more people on the deeper telegram and they also confirmed this issue, which is:
+    ATOM OS version 1.1.13.rel broke the ethernet ports transmition scale.
+    Depending on which ethernet port your modem is connected, either you have 100% download ou 100% upload, but not both at the same time.
+
+If i could downgrade to version 1.1.12 i could truly confirm that its a problem with version 1.1.13.rel
