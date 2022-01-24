@@ -30,7 +30,7 @@ Other than this, there are no special requirements for other fields.
     const sub_address = 'Your substrate account';
     ``` 
 5. Run the script to generate the corresponding signature, save the signature, and prepare for the binding operation
-![IMAGE](/images/signature-bond.png)
+![IMAGE](images/signature-bond.png)
 
 
 
