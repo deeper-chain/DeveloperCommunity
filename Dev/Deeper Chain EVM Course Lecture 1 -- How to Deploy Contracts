@@ -132,3 +132,6 @@ taking transfer as an example, the corresponding modifications are as follows:
         gas_limit = t.transfer.estimate_gas(accounts[0], Wei('2000 ether'))
         transaction = t.transfer(accounts[0], Wei('2000 ether'), {"gas_limit":gas_limit}
     ```
+    
+    chinses version document:
+    https://github.com/deeper-chain/frontier/blob/master/docs/evm-lesson/evm-basic.md
