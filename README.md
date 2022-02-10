@@ -8,7 +8,7 @@ Funder
 
 first step:Pick a Github Issue
 
-Create or use an existing Gitthub issue as a bounty issue.
+Create or use an existing Github issue as a bounty issue.
 
 
 second step:Post Bounty
