@@ -1,0 +1,32 @@
+ID number	#2022 - 002
+Reporter	John H
+Tester	John H
+Submit Date	02/01/2022
+Summary	Color code Change from blue line to red line
+Software Version	1.1.14. rel.
+DPN connection	 All in one – Mini – WI-FI router (dd-wrt)
+Severity	Minor
+Priority	High
+
+Description
+To propose changing the color code from blue line to red line in order to align with the stock exchange, crypto exchange’s default, etc. 
+1.	Red and green are the typical color for trading in the financial sector.
+2.	Enhance the visual appearance of connected nodes from the rest of the community members.
+3.	Recommending to change the color from blue to red next release.
+4.	Recommending to bold the red line as well or different shape. Because most color blind people are able to see things as clearly as other people but they are unable to fully 'see' red, green or blue light anyway, so the interface will be user friendly to improve the “accessibility”.
+
+Steps to reproduce
+
+1. Try to draw a few red lines on the dashboard.
+2. The dashboard apprearance looks the HUGH different and user friendly.
+
+Expected result
+1.	It does improve the accessibility.
+
+
+Actual result
+Bold Line in red might not work 100%. For small country/region like Hongkong/Singapore, the red lines were overlapped, it will show as extreme bold line in red.
+
+Notes
+Hope blue line is temporary solution. At lease red line is suitable for most community members.
+Please also consider the shape and size of red line.
